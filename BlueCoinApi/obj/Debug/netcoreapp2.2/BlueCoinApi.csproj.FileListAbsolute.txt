@@ -1,0 +1,17 @@
+C:\Users\х\source\repos\BlueCoinApi\BlueCoinApi\bin\Debug\netcoreapp2.2\BlueCoinApi.deps.json
+C:\Users\х\source\repos\BlueCoinApi\BlueCoinApi\bin\Debug\netcoreapp2.2\BlueCoinApi.runtimeconfig.json
+C:\Users\х\source\repos\BlueCoinApi\BlueCoinApi\bin\Debug\netcoreapp2.2\BlueCoinApi.runtimeconfig.dev.json
+C:\Users\х\source\repos\BlueCoinApi\BlueCoinApi\bin\Debug\netcoreapp2.2\BlueCoinApi.dll
+C:\Users\х\source\repos\BlueCoinApi\BlueCoinApi\obj\Debug\netcoreapp2.2\BlueCoinApi.csprojAssemblyReference.cache
+C:\Users\х\source\repos\BlueCoinApi\BlueCoinApi\obj\Debug\netcoreapp2.2\BlueCoinApi.csproj.CoreCompileInputs.cache
+C:\Users\х\source\repos\BlueCoinApi\BlueCoinApi\obj\Debug\netcoreapp2.2\BlueCoinApi.RazorAssemblyInfo.cache
+C:\Users\х\source\repos\BlueCoinApi\BlueCoinApi\obj\Debug\netcoreapp2.2\BlueCoinApi.RazorAssemblyInfo.cs
+C:\Users\х\source\repos\BlueCoinApi\BlueCoinApi\obj\Debug\netcoreapp2.2\BlueCoinApi.AssemblyInfoInputs.cache
+C:\Users\х\source\repos\BlueCoinApi\BlueCoinApi\obj\Debug\netcoreapp2.2\BlueCoinApi.AssemblyInfo.cs
+C:\Users\х\source\repos\BlueCoinApi\BlueCoinApi\obj\Debug\netcoreapp2.2\BlueCoinApi.RazorTargetAssemblyInfo.cache
+C:\Users\х\source\repos\BlueCoinApi\BlueCoinApi\bin\Debug\netcoreapp2.2\BlueCoinApi.pdb
+C:\Users\х\source\repos\BlueCoinApi\BlueCoinApi\obj\Debug\netcoreapp2.2\BlueCoinApi.dll
+C:\Users\х\source\repos\BlueCoinApi\BlueCoinApi\obj\Debug\netcoreapp2.2\BlueCoinApi.pdb
+C:\Users\х\source\repos\BlueCoinApi\BlueCoinApi\bin\Debug\netcoreapp2.2\BluCoin.Blockchain.dll
+C:\Users\х\source\repos\BlueCoinApi\BlueCoinApi\bin\Debug\netcoreapp2.2\BluCoin.Blockchain.pdb
+C:\Users\х\source\repos\BlueCoinApi\BlueCoinApi\obj\Debug\netcoreapp2.2\BlueCoinApi.csproj.CopyComplete

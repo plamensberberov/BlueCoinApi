@@ -1,0 +1,9 @@
+C:\Users\х\source\repos\BlueCoinApi\BluCoin.Blockchain\bin\Debug\netstandard2.0\BluCoin.Blockchain.deps.json
+C:\Users\х\source\repos\BlueCoinApi\BluCoin.Blockchain\bin\Debug\netstandard2.0\BluCoin.Blockchain.dll
+C:\Users\х\source\repos\BlueCoinApi\BluCoin.Blockchain\bin\Debug\netstandard2.0\BluCoin.Blockchain.pdb
+C:\Users\х\source\repos\BlueCoinApi\BluCoin.Blockchain\obj\Debug\netstandard2.0\BluCoin.Blockchain.csprojAssemblyReference.cache
+C:\Users\х\source\repos\BlueCoinApi\BluCoin.Blockchain\obj\Debug\netstandard2.0\BluCoin.Blockchain.csproj.CoreCompileInputs.cache
+C:\Users\х\source\repos\BlueCoinApi\BluCoin.Blockchain\obj\Debug\netstandard2.0\BluCoin.Blockchain.AssemblyInfoInputs.cache
+C:\Users\х\source\repos\BlueCoinApi\BluCoin.Blockchain\obj\Debug\netstandard2.0\BluCoin.Blockchain.AssemblyInfo.cs
+C:\Users\х\source\repos\BlueCoinApi\BluCoin.Blockchain\obj\Debug\netstandard2.0\BluCoin.Blockchain.dll
+C:\Users\х\source\repos\BlueCoinApi\BluCoin.Blockchain\obj\Debug\netstandard2.0\BluCoin.Blockchain.pdb
